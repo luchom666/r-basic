@@ -15,6 +15,8 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 HOLAAAAAAAAAAAAAAAAAAAAAAAAAA
 puta madree
 prueba a ver si sale en desktop github
+
+
 1. Trabajando con R y con Python
 2. Documentación con R Markdown
 3. Estructuras de datos
